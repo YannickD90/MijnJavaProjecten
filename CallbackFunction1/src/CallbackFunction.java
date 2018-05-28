@@ -7,6 +7,6 @@ public class CallbackFunction {
     public static void main(String[] args) {
 
 
-     CallbackFunction.testfunction(); 
+     CallbackFunction.testfunction();
     }
 }
