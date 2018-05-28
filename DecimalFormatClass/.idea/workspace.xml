@@ -15,8 +15,8 @@
       <file leaf-file-name="DecimalFormatClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DecimalFormatClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecimalFormatClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
