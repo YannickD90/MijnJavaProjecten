@@ -2,29 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dad8587-19d6-4618-adf7-1a0c1813f7a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../GraphicsTests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GraphicsTests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GraphicsTests/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GraphicsTests/GraphicsTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GraphicsTests/src/CGMoveALine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorldFX/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/PongTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/src/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/src/Pong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/src/PongPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PongTest/src/Racket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amir.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Birthday/AmirTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tohundred/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tohundred/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tohundred/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tohundred/src/tohundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tohundred/tohundred.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CaseSwitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseSwitch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DecimalFormatClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecimalFormatClass/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fibonacci/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GraphicsTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GraphicsTests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWolrdFx2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWolrdFx2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyClass1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/out/production/MyClass1/Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/out/production/MyClass1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyClass1/out/production/MyClass1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/out/production/MyClass1/Message/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyClass1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyClass1/src/message/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyClass1/src/message/Message.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Salaris/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Salaris/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TelltotHonderd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TelltotHonderd/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../XmasTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../XmasTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../banking/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../functionexc1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functionexc1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mathproject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mijnFuncties/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mijnFuncties/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="817" />
     <option name="y" value="283" />
     <option name="width" value="1400" />
@@ -198,7 +201,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="817" y="283" width="1400" height="1000" extended-state="1" />
+    <frame x="817" y="283" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
