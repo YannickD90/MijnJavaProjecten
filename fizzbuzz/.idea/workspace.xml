@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e64ceb-b06a-4303-9cf9-6cd7b3c69a5e" name="Default" comment="" />
+    <list default="true" id="f1a50c44-6f9b-4f9e-addd-746b320bd195" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrimeNumbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+      <file leaf-file-name="fizzbuzz.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fizzbuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -33,35 +33,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/fizzbuzz.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="148" />
-    <option name="y" value="91" />
-    <option name="width" value="1456" />
-    <option name="height" value="1126" />
+    <option name="x" value="1242" />
+    <option name="y" value="276" />
+    <option name="width" value="1065" />
+    <option name="height" value="892" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="primeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="primeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -77,12 +77,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
-      <module name="primeNumbers" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fizzbuzz" />
+      <module name="fizzbuzz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -125,7 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -134,38 +134,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12e64ceb-b06a-4303-9cf9-6cd7b3c69a5e" name="Default" comment="" />
-      <created>1527748557533</created>
+      <changelist id="f1a50c44-6f9b-4f9e-addd-746b320bd195" name="Default" comment="" />
+      <created>1527772115525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527748557533</updated>
+      <updated>1527772115525</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="91" width="1456" height="1126" extended-state="1" />
+    <frame x="1242" y="276" width="1065" height="892" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298479" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885087" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17994505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24976526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,10 +178,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>

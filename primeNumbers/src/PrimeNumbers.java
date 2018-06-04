@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class PrimeNumbers {
 
+
+
     public static void main(String[] args) {
         //this is a class that checks the input if its a prime number
 

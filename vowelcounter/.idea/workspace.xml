@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e64ceb-b06a-4303-9cf9-6cd7b3c69a5e" name="Default" comment="" />
+    <list default="true" id="e6e309e3-f207-4ef1-8614-9c0cb737fb37" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +12,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrimeNumbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+      <file leaf-file-name="vowelCounter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vowelCounter/vowelCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="319">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,35 +37,46 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PrimeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/vowelCounter/vowelCounter.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="148" />
-    <option name="y" value="91" />
-    <option name="width" value="1456" />
-    <option name="height" value="1126" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="665" />
+    <option name="y" value="266" />
+    <option name="width" value="1065" />
+    <option name="height" value="892" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="primeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="primeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="vowelcounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowelcounter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowelcounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowelcounter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowelcounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowelcounter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vowelCounter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -77,13 +92,19 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
-      <module name="primeNumbers" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="vowelCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vowelCounter.vowelCounter" />
+      <module name="vowelcounter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vowelCounter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -125,7 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.vowelCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -134,38 +155,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12e64ceb-b06a-4303-9cf9-6cd7b3c69a5e" name="Default" comment="" />
-      <created>1527748557533</created>
+      <changelist id="e6e309e3-f207-4ef1-8614-9c0cb737fb37" name="Default" comment="" />
+      <created>1528094755239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527748557533</updated>
+      <updated>1528094755239</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="91" width="1456" height="1126" extended-state="1" />
+    <frame x="665" y="266" width="1065" height="892" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298479" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885087" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17994505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24976526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,10 +199,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/vowelCounter/vowelCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="319">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
