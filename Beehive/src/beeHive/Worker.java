@@ -1,9 +1,9 @@
 package beeHive;
 
-public class Worker {
+public class Worker extends Bee {
     int capacity =10;
     int load=0;
-    String name;
+
 
     //constructor
     public Worker(int initialCapacity,int initialLoad){
@@ -14,8 +14,10 @@ public class Worker {
 
     //constructor
     public Worker(){
+        super("john doe");
         this.load =0;
         this.capacity = 100;
+
     }
 
     public void gatherNectar(){

@@ -8,12 +8,15 @@ public class BeeHive {
         Worker willy = new Worker(50,0);
         willy.gatherNectar();
 
-        Soldier Boris = new Soldier();
-        Boris.name = "Boris";
+        Soldier Boris = new Soldier("Boris",100);
 
-        Soldier Jan = new Soldier();
-        Jan.name = "Jan";
+
+        Soldier Jan = new Soldier("Jan",100);
 
         Boris.attack(Jan);
+        System.out.println(Boris.getName());
+
+        Boris.fly();
+
     }
 }
